@@ -1,12 +1,12 @@
 openapi: 3.1.0
 info:
-  title: Redocly Caafe
+  title: Redocly Cafe
   description: |
-    Dmo API for cafe operators (not customers) to manage menus, orders, and revenue.
+    Demo API for cafe operators (not customers) to manage menus, orders, and revenue.
     Create API credentials and try it yourself in a realistic OpenAPI workflow.
   version: 1.0.0
   contact:
-    email: team@redocly.com
+    email: info@example.com
     url: https://redocly.com/contact-us/
   license:
     name: MIT.
@@ -17,7 +17,7 @@ servers:
     description: Live server.
 tags:
   - name: Authorization
-    description: Create a clientss to demo the API.
+    description: Create a clients to demo the API.
   - name: Products
     description: Operations related to products.
   - name: Orders
