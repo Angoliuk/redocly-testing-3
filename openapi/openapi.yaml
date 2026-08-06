@@ -71,4 +71,7 @@ components:
       type: apiKey
       name: X-API-Key
       in: header
-      description: API key for internal operations.
+      description: |
+        API key for internal operations and administrative tasks.
+        Obtain this key from the administrator portal or by submitting an internal request to the DevOps team.
+        This key is required for certain administrative operations, such as viewing revenue statistics, as an alternative to OAuth2.
