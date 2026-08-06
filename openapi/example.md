@@ -1,7 +1,7 @@
 Example file for test:
 
-Fixc that typpos here!!!!
+Fix that typos here!!!!
 
-Dont add content .
+Don't add content .
 
 yep
