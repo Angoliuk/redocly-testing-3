@@ -7,6 +7,7 @@
   "private": true,
   "scripts": {
     "start": "redocly preview --product redoc",
-    "test": "redocly lint"
+    "test": "redocly lint",
+    "build": "redocly build-docs openapi/openapi.yaml -o dist/index.html"
   }
 }
